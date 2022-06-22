@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I will demonstrated all the HTML skills I have learned in the introduction to HTML course. I will make a basic recipe website with the basic HTML knowledge I have gained. I will show that I have understood what HTML is and how I can use it to write text (in lists, paragraphs, headings) and how to put links on my website to link to other web pages of my website or other outside websites and to embed images of .gif, .jpg, .png, and .svg into my websites.
